@@ -16,6 +16,6 @@ This folder contains problems related to Array data structure.
 
 | Problem Name | Difficulty | Status |
 |-------------|-----------|-------|
-| Two Sum | Easy | Pending |
-| Reverse Array | Easy | Pending |
+| Two Sum | Easy | Done |
+| Reverse Array | Easy | Done |
 | Maximum Subarray | Medium | Pending |
