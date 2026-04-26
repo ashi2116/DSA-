@@ -18,4 +18,5 @@ This folder contains problems related to Array data structure.
 |-------------|-----------|-------|
 | Two Sum | Easy | Done |
 | Reverse Array | Easy | Done |
+| Find Maximum Element | Easy | Done |
 | Maximum Subarray | Medium | Pending |
