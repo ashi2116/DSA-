@@ -20,3 +20,4 @@ This folder contains problems related to Array data structure.
 | Reverse Array | Easy | Done |
 | Find Maximum Element | Easy | Done |
 | Maximum Subarray | Medium |Done |
+| Find Minimum Element | Easy | Done |
