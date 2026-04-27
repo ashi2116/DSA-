@@ -83,7 +83,7 @@ java FileName
 
 | Topic | Problems Solved |
 |------|-----------------|
-| Arrays | 4|
+| Arrays | 6 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
