@@ -21,3 +21,4 @@ This folder contains problems related to Array data structure.
 | Find Maximum Element | Easy | Done |
 | Maximum Subarray | Medium |Done |
 | Find Minimum Element | Easy | Done |
+| Second Largest Element | Easy | Done |
