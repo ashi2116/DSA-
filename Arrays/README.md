@@ -22,3 +22,5 @@ This folder contains problems related to Array data structure.
 | Maximum Subarray | Medium |Done |
 | Find Minimum Element | Easy | Done |
 | Second Largest Element | Easy | Done |
+| Check if Array is Sorted | Easy | Done |
+| Remove Duplicates from Sorted Array | Easy | Done |
